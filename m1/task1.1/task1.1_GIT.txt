@@ -1,0 +1,14 @@
+9657707 HEAD@{0}: merge develop: Fast-forward
+5640dbf HEAD@{1}: checkout: moving from develop to main
+9657707 HEAD@{2}: merge styles: Fast-forward
+efabddc HEAD@{3}: merge images: Fast-forward
+a5a24c0 HEAD@{4}: checkout: moving from styles to develop
+9657707 HEAD@{5}: checkout: moving from develop to styles
+a5a24c0 HEAD@{6}: checkout: moving from styles to develop
+9657707 HEAD@{7}: commit: add styles and modified html
+efabddc HEAD@{8}: checkout: moving from images to styles
+efabddc HEAD@{9}: commit: new branch and images file
+a5a24c0 HEAD@{10}: checkout: moving from develop to images
+a5a24c0 HEAD@{11}: commit: create file html
+5640dbf HEAD@{12}: checkout: moving from main to develop
+5640dbf HEAD@{13}: clone: from https://github.com/moccbe/DevOps_online_Dnipro_2022Q1Q2.git
